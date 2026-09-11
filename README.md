@@ -63,8 +63,6 @@ User Voice → Microphone → Wake Word Detection → Speech Recognition → NLP
 SAMPLE IMAGE – AI-ENABLED SMART SPEAKER image
 <img width="1370" height="1148" alt="image" src="https://github.com/user-attachments/assets/d39389a0-d33e-4e87-a7bf-1dc87407350f" />
 
-
-
 AI-ENABLED SMART SPEAKERS
 <img width="1553" height="1013" alt="image" src="https://github.com/user-attachments/assets/9cc3fc6a-93ca-4cd9-a5fe-a691b5f4e186" />
 
