@@ -5,40 +5,68 @@ To study the application of Artificial Intelligence in smart speakers and unders
 
 # THEORY
 
-  A smart speaker is an AI-enabled electronic device that accepts voice commands from users and provides appropriate responses or performs actions. Examples include smart speakers such as Amazon Echo, Google Nest, and Apple HomePod.
+ Smart speakers like Amazon Echo, Google Nest, and Apple HomePod use AI to understand human voice commands and provide suitable responses.
 
-Smart speakers combine several AI technologies to understand human speech, identify the user's intention, search for information, control smart devices, play music, set reminders, and answer questions.   
+Speech Recognition: Converts voice into text.
+NLP: Understands the meaning and intent of the command.
+Machine Learning: Helps improve accuracy and personalize responses.
+Voice Assistant: Performs tasks such as playing music, setting alarms, answering questions, and controlling smart devices.
 
 # WORKING PRINCIPLE 
 
-The basic working process of an AI-enabled smart speaker is:
+The working of an AI-based smart speaker can be explained in the following steps:
 
-User Voice → Microphone→ Speech Recognition→ NLP→ Intent Detection→ AI Processing→ Response Generation → Speaker Output
+Step 1: Voice Input
 
-1.The user gives a voice command.
+The user speaks a command near the smart speaker. The built-in microphone captures the voice signal.
 
-2.The microphone captures the user's speech.
+Step 2: Wake Word Detection
 
-3. Speech Recognition converts speech into text.
+The device continuously listens for a specific wake word such as “Alexa,” “Hey Google,” or “Hey Siri.”
 
-4.Natural Language Processing (NLP) analyzes the meaning of the command.
+Once the wake word is detected, the device begins processing the user's request.
 
-5. Machine Learning/AI models identify the user's intent.
+Step 3: Speech-to-Text Conversion
 
-6.The system retrieves information or performs the requested action
+The captured speech is converted into text using an Automatic Speech Recognition (ASR) system.
 
-7. A response is generated.
+Step 4: Natural Language Processing
 
-8. Text-to-Speech (TTS) converts the response into voice.
+The AI system analyzes the converted text using NLP techniques. It identifies the user's intent and important information from the command.
 
-9. The speaker gives the response to the user.
+For example:
+
+Command: “Set an alarm for 7 AM tomorrow.”
+
+Intent → Set alarm
+Time → 7 AM
+Date → Tomorrow
+Step 5: Decision and Processing
+
+The system determines what action should be performed. Depending on the request, it may search for information, control a smart device, play media, or perform another task.
+
+Step 6: Response Generation
+
+The AI system generates an appropriate response. For example:
+
+User: “What is the temperature today?”
+Assistant: “The temperature today is 30 degrees Celsius.”
+
+Step 7: Text-to-Speech
+
+The generated response is converted into human-like speech using Text-to-Speech (TTS) technology.
+
+Simple Working Flow
+
+User Voice → Microphone → Wake Word Detection → Speech Recognition → NLP → AI Processing → Response Generation → Text-to-Speech → Speaker Output
 
 SAMPLE IMAGE – AI-ENABLED SMART SPEAKER image
+<img width="1370" height="1148" alt="image" src="https://github.com/user-attachments/assets/d39389a0-d33e-4e87-a7bf-1dc87407350f" />
 
-<img width="864" height="298" alt="image" src="https://github.com/user-attachments/assets/67991cda-80c3-45fb-90c2-000c2d93a47b" />
+
 
 AI-ENABLED SMART SPEAKERS
-<img width="864" height="564" alt="image" src="https://github.com/user-attachments/assets/2d373385-5dd3-42e0-9cf4-c4348b89a083" />
+<img width="1553" height="1013" alt="image" src="https://github.com/user-attachments/assets/9cc3fc6a-93ca-4cd9-a5fe-a691b5f4e186" />
 
 Examples:
 
